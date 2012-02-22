@@ -2,7 +2,7 @@
 
 RSpec Matchers for testing ActiveModel::Serializers
 
-This gem currently works with the **0.1.0** release. It will be udpated
+This gem currently works with the **0.1.0** release. It will be updated
 for the next public release when that happens.
 
 ## Installation
