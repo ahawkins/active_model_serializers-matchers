@@ -17,6 +17,8 @@ module SerializerExampleGroup
   end
 end
 
+require 'rspec'
+
 RSpec.configure do |config|
   config.include SerializerExampleGroup, :example_group => {
     :file_path => /spec\/serializers/
